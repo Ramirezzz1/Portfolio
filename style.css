@@ -1,0 +1,44 @@
+/*HEADER*/
+
+.header {
+    border: 2px solid black;
+    border-radius:5px;
+    text-align: center;
+    background-color: gray;
+}
+/*body*/
+body {
+    background-image: url("img/JC-Waterfront.jpg");
+/*nav bar*/  
+.navibar{
+    overflow: visible;
+    padding: 25px;
+    text-align: center;
+    background-color: black
+    float:center;
+    display;block;
+    color:blue;
+    text-align:center;
+    border;10px;
+    border-radius:50px;
+} 
+}
+ul{
+    list-style-type: 
+    padding: 10;
+    overflow: ;
+    }
+
+li{
+    float:left
+}
+li a{
+    display: block;
+    padding: 8px;
+    background-color: black;
+    text-align: center;
+}
+
+li a:hover{
+    background-color: gray;
+}
